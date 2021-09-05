@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elliot1234567
-- 👀 I’m interested in Highschool aspiring to be a full stack developer, data scientist, or mechanical programmer
+- 👀 I’m in highschool aspiring to be a full stack developer, data scientist, or mechanical programmer
 - 🌱 I’m currently learning Java, C++, python, C#
 - 💞️ I’m looking to collaborate on Anything windows application or robotics related
 - 📫 How to reach me - ecscher84@gmail.com
